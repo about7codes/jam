@@ -1,4 +1,4 @@
-// vid-2 00:00 https://www.youtube.com/watch?v=m9mNsYJbkNg&list=PL4cUxeGkcC9jClk8wl1yJcN3Zlrr8YSA1&ab_channel=TheNetNinja
+// vid-10 00:00 https://www.youtube.com/watch?v=m9mNsYJbkNg&list=PL4cUxeGkcC9jClk8wl1yJcN3Zlrr8YSA1&ab_channel=TheNetNinja
 // Contentfull account : aloohamood3@gmail.com
 
 import { createClient } from "contentful";
